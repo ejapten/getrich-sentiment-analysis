@@ -27,7 +27,6 @@ Proyek analisis sentimen ini dilakukan berbagai tahapan, yaitu:
 <p align="justify"> 
 
 
-<p align="justify"> 
   
 **2. Scraping :** Setelah menentukan tujuan, selanjutnya mengumpulkan data yang dibutuhhkan dengan cara scraping atau mengambil data review/ulasan dari play store
   <p align="justify"> 
